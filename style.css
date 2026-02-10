@@ -424,7 +424,7 @@ strong {
 
 .timeline-marker {
   position: absolute;
-  left: -33px;
+  left: -30px; /* Centered on the line (40px padding - 10px offset) */
   top: 6px;
   width: 11px;
   height: 11px;
@@ -445,19 +445,30 @@ strong {
   transform: translateX(4px);
 }
 
-.timeline-header {
+.timeline-row-top,
+.timeline-row-bottom {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   flex-wrap: wrap;
   gap: 8px;
+}
+
+.timeline-row-top {
   margin-bottom: 4px;
 }
 
-.timeline-header h3 {
+.timeline-row-bottom {
+  margin-bottom: 12px;
+}
+
+.timeline-row-top h3 {
   font-size: 1.15rem;
   font-weight: 600;
+  margin: 0;
 }
+
+/* Removed .timeline-header h3 block */
 
 .timeline-company {
   font-size: 0.9rem;
@@ -479,8 +490,15 @@ strong {
   display: block;
   font-size: 0.82rem;
   opacity: 0.4;
-  margin-bottom: 16px;
   font-family: 'JetBrains Mono', monospace;
+}
+
+.timeline-location {
+  display: block;
+  font-size: 0.82rem;
+  opacity: 0.4;
+  font-family: 'JetBrains Mono', monospace;
+  font-style: italic;
 }
 
 .timeline-details {
@@ -735,11 +753,7 @@ strong {
   border-top: 1px solid #1a1a1a;
 }
 
-.awards-title {
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin-bottom: 20px;
-}
+/* .awards-title removed */
 
 .award-item {
   background: #111;

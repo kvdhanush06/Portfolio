@@ -225,10 +225,10 @@
           '<pre>' +
           'Work Experience\n' +
           '───────────────\n\n' +
-          'Backend Developer Intern\n' +
+          'Backend Developer\n' +
           '<a href="https://www.linkedin.com/company/study-cubs/" target="_blank" rel="noopener">StudyCubs</a>\n' +
-          'Dec 2025 – Jan 2026\n' +
-          'Pune, Maharashtra, India · Remote\n\n' +
+          'December 2025 - January 2026 · 1 mo\n' +
+          'Remote - Pune, Maharashtra, India\n\n' +
           '– Built a centralized analytics platform integrating\n' +
           '  Terra API data to enable real-time monitoring for\n' +
           '  5k+ users.\n' +
@@ -240,10 +240,10 @@
           '– Tech Stack: Python, FastAPI, SQLAlchemy, PostgreSQL,\n' +
           '  Alembic, Postman, Git, GitHub\n\n' +
           '────────────────────────────────────────\n\n' +
-          'Backend Developer Intern\n' +
+          'Backend Developer\n' +
           '<a href="https://www.linkedin.com/company/ak-capital-advisors/" target="_blank" rel="noopener">AK Capital Advisors</a>\n' +
-          'Jun 2025 – Aug 2025\n' +
-          'Pune, Maharashtra, India · Remote\n\n' +
+          'October 2025 - November 2025 · 2 mos\n' +
+          'Remote - Pune, Maharashtra, India\n\n' +
           '– Developed secure backend systems to streamline digital\n' +
           '  credit card applications, supporting 1k+ monthly\n' +
           '  submissions.\n' +
@@ -346,10 +346,10 @@
           '──────────────\n\n' +
           'Oracle\n' +
           '<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9A0A7CC8C8DBBE15A972B3642518E75372D91D22C1E469A9DCBB6D2E2750F162" target="_blank" rel="noopener">Oracle Cloud Infrastructure 2025 — Certified Generative AI Professional</a>\n' +
-          'Jul 2025\n\n' +
+          'July 2025\n\n' +
           'NVIDIA\n' +
           '<a href="https://learn.nvidia.com/certificates?id=fZPQ-F1qQWOVo1SjcbS9wA" target="_blank" rel="noopener">Building LLM Applications With Prompt Engineering</a>\n' +
-          'Apr 2025\n' +
+          'April 2025\n' +
           '</pre>'
         );
         break;
@@ -359,12 +359,10 @@
           '<pre>' +
           'Positions of Responsibility\n' +
           '───────────────────────────\n\n' +
-          '<a href="https://www.linkedin.com/company/machinelearningclubvitap/" target="_blank" rel="noopener">The Machine Learning Club VIT-AP</a>\n' +
-          'Part-time · 2 yrs 6 mos\n' +
-          'Amaravati, Andhra Pradesh, India · On-site\n\n' +
-          '────────────────────────────────────────\n\n' +
           'Co-Lead of Deep Learning & Computer Vision Team\n' +
-          'Aug 2025 – Present · 6 mos\n\n' +
+          '<a href="https://www.linkedin.com/company/machinelearningclubvitap/" target="_blank" rel="noopener">The Machine Learning Club VIT-AP</a>\n' +
+          'August 2025 – Present · 7 mos\n' +
+          'Onsite - Amaravati, Andhra Pradesh, India\n\n' +
           '– Coordinated a 12-member technical team and structured\n' +
           '  project delivery pipelines to improve execution\n' +
           '  efficiency.\n' +
@@ -376,7 +374,9 @@
           '– Tech Stack: Python, TensorFlow, OpenCV, Git\n\n' +
           '────────────────────────────────────────\n\n' +
           'Member of Deep Learning Team\n' +
-          'Sep 2024 – Aug 2025 · 1 yr\n\n' +
+          '<a href="https://www.linkedin.com/company/machinelearningclubvitap/" target="_blank" rel="noopener">The Machine Learning Club VIT-AP</a>\n' +
+          'September 2024 – August 2025 · 1 yr\n' +
+          'Onsite - Amaravati, Andhra Pradesh, India\n\n' +
           '– Engineered a real-time computer vision pipeline using\n' +
           '  OpenCV and PyTorch, achieving 90%+ accuracy at 30 FPS.\n' +
           '– Documented Transformer and self-attention architectures\n' +
@@ -388,7 +388,9 @@
           '  NumPy, Git\n\n' +
           '────────────────────────────────────────\n\n' +
           'Member of Research Team\n' +
-          'Oct 2023 – Sep 2024 · 1 yr\n\n' +
+          '<a href="https://www.linkedin.com/company/machinelearningclubvitap/" target="_blank" rel="noopener">The Machine Learning Club VIT-AP</a>\n' +
+          'October 2023 – September 2024 · 1 yr\n' +
+          'Onsite - Amaravati, Andhra Pradesh, India\n\n' +
           '– Built automated data preprocessing and feature\n' +
           '  engineering pipelines, improving dataset consistency\n' +
           '  by 20%.\n' +
@@ -410,7 +412,7 @@
           '───────────────\n\n' +
           'Smart India Hackathon 2023 —\n' +
           'National Round Qualifier (Team Leader)\n' +
-          'Issued by VIT-AP · Sep 2023\n\n' +
+          'Issued by VIT-AP · September 2023\n\n' +
           '– Led a 5-member team to develop a time-series-based\n' +
           '  weather forecasting system with 7-day prediction\n' +
           '  horizon.\n' +
@@ -430,7 +432,7 @@
           '─────────\n\n' +
           'VIT-AP University\n' +
           'Bachelor of Technology, Computer Science & Engineering\n' +
-          'Sep 2023 – Jun 2027\n' +
+          'September 2023 – June 2027\n' +
           '</pre>'
         );
         break;
