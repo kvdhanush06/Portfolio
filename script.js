@@ -333,7 +333,7 @@
           'VIT-AP University, Andhra Pradesh\n' +
           'Bachelor of Technology, Computer Science & Engineering\n' +
           'Timeline: September 2023 – June 2027\n' +
-          'Grade: CGPA 8.45 / 10\n' +
+          'Grade: CGPA 8.47 / 10\n' +
           '</pre>'
         );
         break;
