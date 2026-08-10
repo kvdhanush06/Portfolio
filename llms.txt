@@ -4,7 +4,7 @@
 
 ## Core profile pages
 
-- [https://portfolio.allkvd.dev/](https://portfolio.allkvd.dev/) — Portfolio home page: complete professional profile including hero intro, about section, work experience timeline (StudyCubs, AK Capital Advisors), open-source contributions (Prefect FastMCP — 3 merged PRs), 3 featured projects, full tech stack, certifications (OCI Generative AI Pro, NVIDIA LLM Prompt Engineering), leadership roles (ML Club VIT-AP), awards (GATE 2026, Smart India Hackathon), education (VIT-AP, CGPA 8.45), contact information, and an interactive terminal for exploring the portfolio.
+- [https://portfolio.allkvd.dev/](https://portfolio.allkvd.dev/) — Portfolio home page: complete professional profile including hero intro, about section, work experience timeline (StudyCubs, AK Capital Advisors), open-source contributions (Prefect FastMCP — 3 merged PRs), 3 featured projects, full tech stack, certifications (OCI Generative AI Pro, NVIDIA LLM Prompt Engineering), leadership roles (ML Club VIT-AP), awards (GATE 2026, Smart India Hackathon), education (VIT-AP, CGPA 8.47), contact information, and an interactive terminal for exploring the portfolio.
 
 ## Featured projects
 
